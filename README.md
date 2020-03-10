@@ -26,8 +26,6 @@ The following mouse genome and gene references were built into the singularity i
 3)	RSEM references using GENCODE vM20 annotations.
 4)	Chromosome size file of mm10.
 
-
-
 # Usage:
 
 **2-step guideline for pipeline usage:**
