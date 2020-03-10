@@ -30,10 +30,10 @@ The following mouse genome and gene references were built into the singularity i
 
 **2-step guideline for pipeline usage:**
 
-**step.1** Download the RNA-seq singularity image [here](http://regmedsrv1.wustl.edu/Public_SPACE/bmiao/Public_html/TaRGET_II_pipeline/RNAseq/):
+**step.1** Download the RNA-seq singularity image [here](http://regmedsrv1.wustl.edu/Public_SPACE/bmiao/Public_html/TaRGET_II_pipeline/RNAseq ):
 ```
 # download image from local server:
-wget http://regmedsrv1.wustl.edu/Public_SPACE/bmiao/Public_html/TaRGET_II_pipeline/RNAseq/  
+wget http://regmedsrv1.wustl.edu/Public_SPACE/bmiao/Public_html/TaRGET_II_pipeline/RNAseq/RNA_mm10_target_191212.simg   
 ```
 **step.2** Process RNA-seq data with the image: 
 
